@@ -1,0 +1,5 @@
+# kodlamaio_game_crm
+KODLAMAIO GAME CRM HOMEWORK
+JAVA SE 1.8   MERNIS Service SAMPLE
+
+
